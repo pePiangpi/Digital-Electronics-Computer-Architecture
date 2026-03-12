@@ -5,10 +5,10 @@ This project demonstrates the design of a digital security system using Programm
 Here is the circuit design for the PLD Door Lock System:
 
 ### System Status: Access Denied
-![Security system showing incorrect passcode attempt](./Digital-Electronics-Computer-Architecture/red.png)
+![Security system showing incorrect passcode attempt](../red.png)
 
 ### System Status: Access Granted
-![Security system showing successful authentication](./Digital-Electronics-Computer-Architecture/green.png)
+![Security system showing successful authentication](../green.png)
 
 
 ## 🕹️ Functionality
