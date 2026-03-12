@@ -2,6 +2,14 @@
 
 ## 🔒 Project Overview
 This project demonstrates the design of a digital security system using Programmable Logic Device (PLD) principles. The circuit simulates a door lock that requires a specific input sequence to grant access.
+Here is the circuit design for the PLD Door Lock System:
+
+### System Status: Access Denied
+![Security system showing incorrect passcode attempt](./RedStatus.png)
+
+### System Status: Access Granted
+![Security system showing successful authentication](./Greenstatus.png)
+
 
 ## 🕹️ Functionality
 The system monitors input pins and evaluates them against a preset "key" logic:
