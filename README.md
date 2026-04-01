@@ -1,6 +1,6 @@
-# Digital Electronics & Computer Architecture
+# Digital Electronics & Computer Architecture 
 
-This repository contains a collection of hardware logic and digital circuit designs developed as part of my Computer Science studies at the University of the People. Each project focuses on the fundamental building blocks of modern computing, designed and simulated using **Logisim**.
+This repository contains a collection of hardware logic and digital circuit designs developed as part of my Computer Science studies at the **University of the People**. Each project focuses on the fundamental building blocks of modern computing, designed and simulated using **Logisim**.
 
 ## 🚀 Projects Included
 
